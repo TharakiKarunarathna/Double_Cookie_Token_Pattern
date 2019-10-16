@@ -1,4 +1,4 @@
-# csrf protection using Double Submit Cookies Pattern
+# CSRF protection using Double Submit Cookies Pattern
 
 This sample project demonstrates the use of Double Submit Cookies Pattern to mitigate CSRF attacks.
 
